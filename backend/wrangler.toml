@@ -1,0 +1,9 @@
+name = "llm-chatbot-api"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[ai]
+binding = "AI"
+
+[vars]
+CORS_ORIGIN = "*"
