@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.pnp.*
+
+# Build output
+dist/
+.wrangler/
+.dev.vars
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
